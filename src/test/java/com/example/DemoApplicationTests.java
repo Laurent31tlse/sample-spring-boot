@@ -13,7 +13,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 	}
 	@Test
-	public final void testmultyply(){
+	public final void testmultiply(){
 		fail("Not yet implemented");
 	}
 
