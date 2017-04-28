@@ -12,5 +12,9 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	@Test
+	public final void testmultyply(){
+		fail("Not yet implemented");
+	}
 
 }
