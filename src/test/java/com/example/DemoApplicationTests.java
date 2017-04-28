@@ -17,7 +17,7 @@ public class DemoApplicationTests {
 		
 	}
 	@Test
-   	 public final void testMultiply() {
+   	 public final void testAdd() {
         fail("Not yet implemented"); // TODO
 		 
     }
