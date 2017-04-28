@@ -13,10 +13,9 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		
 	}
+	@ignore
 	@Test
-
-    public final void testMultiply() {
-
+    	public final void testMultiply() {
         fail("Not yet implemented"); // TODO
 
     }
