@@ -11,6 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		fail("Not yet implemented");
 	}
 	/*@Test
 	public final void testmultiply(){
