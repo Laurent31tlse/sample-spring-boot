@@ -14,11 +14,24 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		
 	}
-	@ignore
 	@Test
-    	public final void testMultiply() {
-        fail("Not yet implemented"); // TODO
+	public final void testMultiply() {
+		fail("Not yet implemented"); // TODO
+	}
 
-    }
+	@Test
+	public final void testDivide() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	public final void testAdd() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	public final void testSubstract() {
+		fail("Not yet implemented"); // TODO
+	}
 
 }
